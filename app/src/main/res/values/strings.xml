@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OnTouchTODO</string>
+    <string name="type">Type: </string>
+    <string name="limit">Date: </string>
+    <string name="add_todo">Add Todo</string>
+    <string name="bt_addtodo">Add Todo!!</string>
+    <string name="task_limit">Task Limit:</string>
+    <string name="task_name">Task Name:</string>
+    <string name="task_type">Task Type:</string>
+    <string name="bt_del">Delete</string>
+    <string name="tx_move">Move</string>
+</resources>

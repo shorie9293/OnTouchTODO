@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="task_types">
+        <item>---</item>
+        <item>次の行動</item>
+        <item>連絡待ち</item>
+        <item>スケジュール</item>
+    </string-array>
+</resources>
